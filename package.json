@@ -1,0 +1,16 @@
+{
+  "name": "promises-subarrays",
+  "version": "0.1.0",
+  "description": "Similar to Promise.all() but allows you to await a certain number of promises at once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "promise",
+    "array",
+    "subarray"
+  ],
+  "author": "Spencer Holman <spencer.a.holman@gmail.com>",
+  "license": "Apache-2.0"
+}
