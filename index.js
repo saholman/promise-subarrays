@@ -5,7 +5,7 @@ module.exports = function() {
 
     factory.functionCalls = [];
 
-    factory.push = function(funct, args) {
+    factory.push = function(funct, args = []) {
         factory.functionCalls.push({
             funct: funct,
             args: args

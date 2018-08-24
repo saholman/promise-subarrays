@@ -1,6 +1,6 @@
 {
-  "name": "promises-subarrays",
-  "version": "0.1.0",
+  "name": "promise-subarrays",
+  "version": "0.1.2",
   "description": "Similar to Promise.all() but allows you to await a certain number of promises at once.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "subarray"
   ],
   "author": "Spencer Holman <spencer.a.holman@gmail.com>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saholman/promises-subarrays.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saholman/promises-subarrays/issues"
+  },
+  "homepage": "https://github.com/saholman/promises-subarrays#readme"
 }
